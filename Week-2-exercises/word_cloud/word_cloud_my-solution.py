@@ -1,3 +1,5 @@
+# exercise 1 - word cloud - count the top 10 most used words contained in input_file
+# excluding the words in stopword_file
 import collections
 
 # open file resources
